@@ -1,9 +1,9 @@
 num=float(input("enter the value"))
-if (num>=0):
-    print("positive")
+if (num>0):
+    print("Positive")
 elif (num<0):
-    print("negative")
+    print("Negative")
 else:    
-     print("invalid number")
+     print("Zero")
 
 
